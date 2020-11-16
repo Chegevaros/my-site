@@ -61,6 +61,7 @@ body {
   font-size: 88px;
   line-height: 96px;
   font-weight: 400;
+  text-align: center;
 }
 
 .hero-image p {
@@ -191,4 +192,7 @@ body {
 .footer-phone {
   padding-left: 25px;
   background-image: url("img/icon-phone-footer.svg");
+}
+.junior {text-align: center;
+
 }
